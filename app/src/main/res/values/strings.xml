@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="login">Login</string>
+    <string name="verify_phone_number">Enter your phone number...</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="profile">profile</string>
+    <string name="name">Type your name here</string>
+    <string name="info">Type your info here</string>
+    <string name="save">save</string>
+
+
+</resources>

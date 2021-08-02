@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextStyle20">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontWeight">100</item>
+    </style>
+
+    <style name="TextStyle18">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontWeight">100</item>
+    </style>
+
+    <style name="TextStyle16">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontWeight">100</item>
+    </style>
+
+    <style name="TextStyle14">
+        <item name="android:textColor">@color/Blue_100</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontWeight">100</item>
+    </style>
+
+    <style name="avatar" parent="">
+        <item name="cornerSize">50%</item>
+        <item name="strokeWidth">3dp</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@drawable/splashscreen</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

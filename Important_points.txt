@@ -1,0 +1,1 @@
+1) firebase profile photo path -> "uploads/" +auth.uid.toString()+"profileImage"
